@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62db42da-8b28-404d-9dcb-363bed49eed0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MarutiITR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fae recognition using csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiara.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiara2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyaut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen_capture/divaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen_capture/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen_capture/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen_capture/specific_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen_capture/web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speak_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speech_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/volume_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wishes_whatsapp.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2lbdN6QlQeHQKXRap9HpSKl7ZWk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.app.executor": "Run",
+    "Python.appv2.executor": "Run",
+    "Python.dhg.executor": "Run",
+    "Python.divaa.executor": "Run",
+    "Python.excel.executor": "Run",
+    "Python.kiara.executor": "Run",
+    "Python.kiara2.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pyaut.executor": "Run",
+    "Python.s.executor": "Run",
+    "Python.speak_function.executor": "Run",
+    "Python.specific_area.executor": "Run",
+    "Python.ss.executor": "Run",
+    "Python.symbol_database.executor": "Run",
+    "Python.task_manager.executor": "Run",
+    "Python.taskmanager.executor": "Run",
+    "Python.web.executor": "Run",
+    "Python.whatsapp.executor": "Run",
+    "Python.wishes_whatsapp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/adity/PycharmProjects/MarutiITR/screen_capture"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adity\PycharmProjects\MarutiITR\screen_capture" />
+      <recent name="C:\Users\adity\PycharmProjects\MarutiITR" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62db42da-8b28-404d-9dcb-363bed49eed0" name="Changes" comment="" />
+      <created>1725452666742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725452666742</updated>
+    </task>
+    <servers />
+  </component>
+</project>
