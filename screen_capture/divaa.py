@@ -5,7 +5,7 @@ import google.generativeai as genai
 
 from specific_area import monitor_chat_area
 # Initialize Pinecone client
-genai.configure(api_key='AIzaSyCay112ajwakcbG6l5wTLK5WTSKBlzJH44')
+genai.configure(api_key='')
 
 # Configuration for the generative model
 generation_config = {
