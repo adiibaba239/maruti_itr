@@ -3,7 +3,7 @@ from speech_handler import speak, listen
 from speak_function import speak as speak2
 
 # Initialize Pinecone client
-genai.configure(api_key='AIzaSyCay112ajwakcbG6l5wTLK5WTSKBlzJH44')
+genai.configure(api_key='')
 
 # Configuration for the generative model
 generation_config = {
